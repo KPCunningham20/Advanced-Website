@@ -1,0 +1,57 @@
+body { 
+		Background-color: #ffadad;
+}
+	div
+	{
+		margin-top:20px;
+		margin-bottom:20px;
+		margin-left:20px;
+		margin-right:20px;
+		Display: Block;
+		text-align: center;
+	}
+	.header {
+		backgrond-color: #cc8888;
+		text-align: center;
+
+	}
+	.topnav {
+		overflow: hidden;
+		background-color: #ff000c;
+	}
+	.topnav a {
+		float: left;
+		display: block;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	.topnav a:hover {
+		background-color: #ff969a;
+		color: black
+	}
+	.column {
+		float: left;
+		width: 50%
+	}
+	.row:after {
+		content:"";
+	}
+	.column.side{
+		float: right;
+		width: 50%
+	}
+	.column.middle {
+		float: middle;
+		width: 50%
+	}
+	.footer {
+		backgrond-color: #F1F1
+	}
+	/*This is how you respond without text reading
+	/*Responsive content*/
+	
+	
+		
+		
